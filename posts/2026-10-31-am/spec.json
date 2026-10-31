@@ -1,0 +1,44 @@
+{
+ "slug": "supernatant-vs-exosome",
+ "file_ko": "줄기세포-상청액-엑소좀-차이",
+ "site": "104.seoul.kr",
+ "cover": {"tag": "기초 개념 · MISEV2023", "lines": ["[[상청액]]과 [[엑소좀]]", "무엇이", "{{다를까요?}}"], "sub": "배양액 전체 vs 200nm 안팎 작은 주머니", "badges": [{"value": "200nm", "label": "작은 EV 크기 기준"}, {"value": "2019", "label": "FDA 안전 공지"}], "characters": ["doctor", "patient"]},
+ "info_title": {"lines": ["[[상청액]] vs [[엑소좀]]", "{{한눈에}} 비교"]},
+ "summary": "상청액은 세포를 걸러 낸 배양액 전체예요. 엑소좀은 그 안에 든 작은 막 주머니의 한 종류예요.",
+ "source_line": "(출처: MISEV2023 · FDA 2019 · ISSCR 2024)",
+ "sections": [
+  {"type": "list", "title": "상청액 (conditioned medium)", "color": "sky", "character": "doctor",
+   "items": [
+    {"head": "정체", "text": "세포를 걸러 낸 배양액 전체"},
+    {"head": "들어 있는 것", "text": "단백질, 성장인자, 작은 주머니"},
+    {"head": "얻는 법", "text": "원심분리·여과"}]},
+  {"type": "list", "title": "엑소좀 (작은 EV의 한 종류)", "color": "mint", "character": "patient",
+   "items": [
+    {"head": "정체", "text": "상청액에 든 작은 막 주머니"},
+    {"head": "크기", "text": "작은 EV는 대체로 200nm 이하"},
+    {"head": "얻는 법", "text": "상청액에서 추가 분리"}]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "folder",
+   "lead": "국제 지침과 규제 기관 안내예요.",
+   "items": [
+    {"value": "200nm", "label": "작은 EV 기준", "note": "MISEV2023"},
+    {"value": "2019.12.6", "label": "FDA 안전 공지", "note": "승인 제품 없음"}]},
+  {"type": "steps", "title": "정보를 볼 때 확인할 3단계", "color": "peach", "character": "calendar",
+   "items": [
+    {"title": "승인", "sub": "승인된 치료인가"},
+    {"title": "임상시험", "sub": "사람 대상 연구인가"},
+    {"title": "의료진", "sub": "적합 여부를 판단하는가"}]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "연구에서 긍정적 결과가 보고된 것과 승인은 달라요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: Welsh JA 외, MISEV2023, J Extracell Vesicles 2024 · 미국 FDA 2019-12-06 안전 공지 · ISSCR Guide to Stem Cell Treatments 2024\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "줄기세포 상청액과 엑소좀 차이",
+  "description": "줄기세포 상청액은 배양액 전체, 엑소좀은 그 안의 작은 막 주머니. MISEV2023 기준과 FDA 2019 안전 공지를 쉽게 정리.",
+  "keywords": ["줄기세포 상청액", "엑소좀", "상청액 엑소좀 차이", "세크레톰", "MISEV2023", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/chronic-pain-stem-cell-secretome-exosome/",
+  "alt_cover": "줄기세포 상청액과 엑소좀 차이 대표 그림: 상청액은 배양액, 엑소좀은 200nm 안팎 작은 주머니",
+  "alt_info": "줄기세포 상청액과 엑소좀 한눈에 보기: 배양액과 작은 주머니의 관계, 규제 현황, 확인할 질문"
+ }
+}
