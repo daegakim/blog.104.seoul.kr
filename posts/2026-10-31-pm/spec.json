@@ -1,0 +1,121 @@
+{
+ "slug": "preterm-cord-blood-mnc-5year",
+ "file_ko": "미숙아-제대혈-단핵세포-5년-추적",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 2상 5년 추적",
+  "lines": [
+   "[[미숙아]] 제대혈",
+   "단핵세포",
+   "{{5년 뒤}} 발달은?"
+  ],
+  "sub": "62명 시험, 5세 소근육·사회성 점수 비교",
+  "badges": [
+   {
+    "value": "62명",
+    "label": "2상 시험 대상"
+   },
+   {
+    "value": "P=.044",
+    "label": "소근육 점수"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[미숙아]] 제대혈 5년 추적",
+   "{{한눈에}} 보기"
+  ]
+ },
+ "summary": "자기 제대혈 단핵세포를 한 번 정맥 투여한 2상 시험의 5세 추적 결과예요. 소근육과 사회성 점수에서 차이가 보고됐어요.",
+ "source_line": "(출처: Stem Cells Transl Med 2026 · FDA)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "어떤 시험이었나요",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "대상",
+     "text": "임신 32주 미만 미숙아 62명"
+    },
+    {
+     "head": "투여",
+     "text": "출생 24시간 안, 1kg당 5천만 개, 1회"
+    },
+    {
+     "head": "비교",
+     "text": "생리식염수 대조군, 비무작위"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "5세 점수 비교",
+   "color": "mint",
+   "character": "folder",
+   "lead": "부모가 쓴 발달 설문(ASQ-3) 평균이에요.",
+   "items": [
+    {
+     "value": "53.41",
+     "label": "소근육 투여군",
+     "note": "대조군 45.04, P=.044"
+    },
+    {
+     "value": "57.50",
+     "label": "사회성 투여군",
+     "note": "대조군 50.38, P=.048"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "차이가 뚜렷하지 않은 곳",
+   "color": "lemon",
+   "character": "patient",
+   "items": [
+    {
+     "head": "대근육",
+     "text": "52.05 vs 52.12"
+    },
+    {
+     "head": "전체 평균",
+     "text": "P=.113"
+    },
+    {
+     "head": "성장",
+     "text": "체중·키 차이 없음"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "미리 알아 두세요",
+   "color": "lilac",
+   "character": "shield",
+   "text": "소규모 비무작위 시험이고 설문 결과예요. 승인된 치료가 아니며, 맞는지는 담당 의료진이 판단해요."
+  }
+ ],
+ "footer": "출처: Ren Z 외, Stem Cells Transl Med 2026;15(8):szag045 · 미국 FDA 재생의료 안내\n이 그림은 공개된 논문 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "미숙아 제대혈 단핵세포 5년 추적",
+  "description": "미숙아 62명 2상 시험 5년 추적: 소근육·사회성 점수 차이와 한계를 쉽게 정리.",
+  "keywords": [
+   "미숙아",
+   "제대혈",
+   "단핵세포",
+   "발달",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/cerebral-palsy-stem-cell-clinical-studies/",
+  "alt_cover": "미숙아 제대혈 줄기세포 5년 추적 대표 그림: 62명 2상 시험, 5세 때 손가락 운동과 사회성 점수 비교",
+  "alt_info": "미숙아 제대혈 단핵세포 5년 추적 한눈에 보기: 시험 설계, 점수 비교, 한계"
+ }
+}
