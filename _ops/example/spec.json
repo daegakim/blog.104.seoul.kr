@@ -1,0 +1,44 @@
+{
+ "slug": "prostate-cancer-proton-therapy-guide",
+ "file_ko": "전립선암-양성자-치료-5년-성적-일본-보험",
+ "site": "109.co.kr",
+ "cover": {"tag": "미국 3상·일본 다기관", "lines": ["[[전립선암 양성자 치료]]", "직장·방광 부담을", "{{줄이도록}} 설계"], "sub": "일본 2018년 4월부터 공적보험 · 전이 없는 경우", "badges": [{"value": "93.4%", "label": "5년 무진행 생존율"}, {"value": "450명", "label": "미국 3상 참여"}], "characters": ["beam", "doctor", "patient"]},
+ "info_title": {"lines": ["[[전립선암 양성자 치료]]", "{{핵심 숫자}} 정리"]},
+ "summary": "양성자는 정해진 깊이에서 멈추는 성질이 있어요. 전립선 바로 뒤 직장에 닿는 방사선을 줄이도록 계획해요.",
+ "source_line": "(출처: PARTIQoL ASTRO 2024 · Cancer Med 2018 · J Radiat Res 2023)",
+ "sections": [
+  {"type": "bars", "title": "PARTIQoL 5년 무진행 생존율", "color": "sky", "character": "beam",
+   "lead": "미국 30개 기관, 저·중간위험 전립선암 450명을 둘로 나눠 비교했어요.",
+   "items": [{"label": "양성자 치료(226명)", "value": 93.4, "display": "93.4%"}, {"label": "IMRT(224명)", "value": 93.7, "display": "93.7%"}]},
+  {"type": "stats", "title": "일본 7개 기관 1,291명", "color": "mint", "character": "doctor",
+   "lead": "위험도별 5년 PSA 재발 없는 비율이에요(Cancer Medicine 2018).",
+   "items": [
+    {"value": "97.0%", "label": "저위험", "note": "215명"},
+    {"value": "91.1%", "label": "중간위험", "note": "520명"},
+    {"value": "83.1%", "label": "고위험", "note": "556명"},
+    {"value": "95.2%", "label": "고위험 5년 생존율"}]},
+  {"type": "list", "title": "치료가 필요한 늦은 부작용", "color": "lemon", "character": "shield",
+   "items": [
+    {"head": "장 4.1%", "text": "2등급 이상, 일본 1,291명 연구"},
+    {"head": "비뇨기 4.0%", "text": "2등급 이상, 일본 1,291명 연구"},
+    {"head": "치료 중 빈뇨·항문 불편", "text": "대부분 치료 뒤 몇 주 안에 가라앉음"}]},
+  {"type": "steps", "title": "치료 일정 예시", "color": "peach", "character": "calendar",
+   "items": [
+    {"title": "44회", "sub": "약 9주"},
+    {"title": "28회", "sub": "약 6주"},
+    {"title": "하루 1시간 안팎", "sub": "주 5일 통원"}]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "folder",
+   "text": "일본 공적보험이 없는 해외 환자는 자비 진료예요. 병리 결과·PSA 기록·MRI 원본을 모아 두면 검토가 빨라요. 맞는 치료인지는 의료진이 판단해요."}
+ ],
+ "footer": "출처: Efstathiou JA 외, PARTIQoL ASTRO 2024 · Iwata H 외, Cancer Medicine 2018 · Sakurai H 외, J Radiat Res 2023\n이 그림은 공개된 연구 결과를 쉽게 정리한 일반 정보이며, 결과는 사람마다 다를 수 있습니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "전립선암 양성자 치료 5년 성적과 일본 보험",
+  "description": "전립선암 양성자 치료 PARTIQoL 5년 무진행 생존율 93.4%, 일본 7개 기관 1,291명 위험군별 성적, 늦은 부작용 장 4.1%·비뇨기 4.0%.",
+  "keywords": ["전립선암 양성자 치료", "양성자 치료", "PARTIQoL", "일본 양성자 치료", "전립선암 방사선치료", "FTH"],
+  "creator": "FTH 에프티에이치 (109.co.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://109.co.kr/kr/blog/proton-therapy/prostate-cancer-proton-therapy-guide/",
+  "alt_cover": "전립선암 양성자 치료 대표 그림: 미국 3상 5년 무진행 생존율 93.4%, 일본 2018년 4월부터 공적보험",
+  "alt_info": "전립선암 양성자 치료 한눈에 보기: PARTIQoL 결과, 일본 위험군별 성적, 늦은 부작용, 치료 일정"
+ }
+}
