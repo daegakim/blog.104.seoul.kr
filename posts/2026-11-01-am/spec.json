@@ -1,0 +1,122 @@
+{
+ "slug": "mesenchymal-stem-cell-sources",
+ "file_ko": "중간엽줄기세포-조직별-비교",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "기초 개념 · Kern 2006",
+  "lines": [
+   "[[중간엽줄기세포]]",
+   "조직마다",
+   "{{무엇이 다를까요?}}"
+  ],
+  "sub": "골수 · 지방 · 제대혈 비교",
+  "badges": [
+   {
+    "value": "3곳",
+    "label": "골수·지방·제대혈"
+   },
+   {
+    "value": "2024",
+    "label": "FDA 첫 MSC 승인"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[중간엽줄기세포]]",
+   "{{조직별}} 한눈에"
+  ]
+ },
+ "summary": "같은 기준을 채워도 얻은 조직에 따라 빈도와 증식 속도가 달라요.",
+ "source_line": "(출처: Kern 2006 · ISCT 2006 · FDA 2024 · EMA)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "조직별 특징 (시험관 비교)",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "골수",
+     "text": "채취가 침습적, 증식 가장 낮음"
+    },
+    {
+     "head": "지방",
+     "text": "세포 빈도가 가장 높음"
+    },
+    {
+     "head": "제대혈",
+     "text": "가장 많이 늘릴 수 있음"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "숫자로 보기",
+   "color": "lemon",
+   "character": "folder",
+   "lead": "공식 자료의 숫자예요.",
+   "items": [
+    {
+     "value": "54명",
+     "label": "FDA 승인 근거 소아 연구",
+     "note": "단일군"
+    },
+    {
+     "value": "2024.12.18",
+     "label": "리온실 FDA 승인",
+     "note": "첫 MSC 치료제"
+    }
+   ]
+  },
+  {
+   "type": "steps",
+   "title": "정보를 볼 때 확인할 3단계",
+   "color": "peach",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "승인",
+     "sub": "승인된 치료인가"
+    },
+    {
+     "title": "임상시험",
+     "sub": "사람 대상 연구인가"
+    },
+    {
+     "title": "의료진",
+     "sub": "적합 여부를 판단하는가"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "미리 알아 두세요",
+   "color": "lilac",
+   "character": "shield",
+   "text": "시험관 비교는 사람에게서의 우열을 뜻하지 않아요. 맞는 치료인지는 담당 의료진이 판단해요."
+  }
+ ],
+ "footer": "출처: Kern S 외, Stem Cells 2006 · Dominici M 외, Cytotherapy 2006 · 미국 FDA 2024-12-18 · EMA Alofisel EPAR\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "중간엽줄기세포 조직별 비교",
+  "description": "골수·지방·제대혈 유래 중간엽줄기세포의 차이와 승인 사례를 쉽게 정리.",
+  "keywords": [
+   "중간엽줄기세포",
+   "MSC",
+   "골수 줄기세포",
+   "지방 줄기세포",
+   "제대혈",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/gvhd-stem-cell-mesenchymal-stromal-cells/",
+  "alt_cover": "줄기세포 상청액과 엑소좀 차이 대표 그림: 상청액은 배양액, 엑소좀은 200nm 안팎 작은 주머니",
+  "alt_info": "줄기세포 상청액과 엑소좀 한눈에 보기: 배양액과 작은 주머니의 관계, 규제 현황, 확인할 질문"
+ }
+}
