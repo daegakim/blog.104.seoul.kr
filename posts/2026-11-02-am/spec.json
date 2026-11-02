@@ -1,0 +1,122 @@
+{
+ "slug": "autologous-vs-allogeneic-stem-cells",
+ "file_ko": "자기-세포-타인-세포-줄기세포",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "기초 개념 · 일본 승인 사례",
+  "lines": [
+   "[[자기 세포]] vs",
+   "[[타인 세포]]",
+   "{{무엇이 다를까요?}}"
+  ],
+  "sub": "자가 · 동종 줄기세포 비교",
+  "badges": [
+   {
+    "value": "2015",
+    "label": "템셀 HS 동종 승인"
+   },
+   {
+    "value": "2018",
+    "label": "스테미랙 자가 승인"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[자가·동종]]",
+   "{{줄기세포}} 한눈에"
+  ]
+ },
+ "summary": "본인 세포는 환자별로 만들고, 기증자 세포는 미리 만들어 둘 수 있어요.",
+ "source_line": "(출처: Cell Biosci 2021 · JCR 2015 · Nipro · FDA 2024)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "두 방식의 특징",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "자가",
+     "text": "본인 골수 등에서 얻어 환자별로 배양"
+    },
+    {
+     "head": "동종",
+     "text": "기증자 세포를 미리 만들어 냉동 보관"
+    },
+    {
+     "head": "공통",
+     "text": "어느 쪽이 더 낫다는 결론은 아직 없음"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "숫자로 보기",
+   "color": "lemon",
+   "character": "folder",
+   "lead": "공식 자료의 숫자예요.",
+   "items": [
+    {
+     "value": "2015.9.18",
+     "label": "템셀 HS 승인",
+     "note": "일본 첫 동종 제품"
+    },
+    {
+     "value": "2018.12.28",
+     "label": "스테미랙 조건부 승인",
+     "note": "자가 골수 유래"
+    }
+   ]
+  },
+  {
+   "type": "steps",
+   "title": "정보를 볼 때 확인할 3단계",
+   "color": "peach",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "승인",
+     "sub": "승인된 치료인가"
+    },
+    {
+     "title": "임상시험",
+     "sub": "사람 대상 연구인가"
+    },
+    {
+     "title": "의료진",
+     "sub": "적합 여부를 판단하는가"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "미리 알아 두세요",
+   "color": "lilac",
+   "character": "shield",
+   "text": "어느 방식이 더 낫다는 결론은 아직 없어요. 맞는 치료인지는 담당 의료진이 판단해요."
+  }
+ ],
+ "footer": "출처: Li 외, Cell Biosci 2021 · JCR파마 2015-09-18 · Nipro 결산 자료 · 미국 FDA 2024-12-18\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "자기 세포와 타인 세포 줄기세포 차이",
+  "description": "자가와 동종 줄기세포의 차이와 일본 승인 사례를 쉽게 정리.",
+  "keywords": [
+   "자가 줄기세포",
+   "동종 줄기세포",
+   "중간엽줄기세포",
+   "템셀",
+   "스테미랙",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/spinal-cord-injury-bone-marrow-stem-cell-stemirac/",
+  "alt_cover": "자기 세포와 타인 세포 줄기세포 대표 그림: 자가와 동종 비교",
+  "alt_info": "자기 세포와 타인 세포 한눈에 보기"
+ }
+}
