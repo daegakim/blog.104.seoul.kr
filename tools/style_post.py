@@ -87,7 +87,7 @@ def guide_box():
             + ''.join(f'<a href="{u}" style="{a}">{t} →</a>' for u, t in links) + '</div>')
 
 # 104.seoul.kr 전용 블로거(다른 구글 아이디, 사용자 지정 2026-10-29) — FTH 일본 암치료 상자 대신 줄기세포 문의 상자만
-S104_CONTACT = 'https://104.seoul.kr/kr/contact/'  # 첫 실행에서 daegakim/104 저장소로 실제 문의 페이지 주소를 확인해 고친다
+S104_CONTACT = 'https://104.seoul.kr/kr/contact/'  # 104 저장소 kr/contact/ 확인(2026-11-02)
 
 def contact_box_104():
     btn = 'display:inline-block;margin:6px 4px;padding:13px 24px;border-radius:999px;text-decoration:none;font-weight:700;font-size:16.5px'

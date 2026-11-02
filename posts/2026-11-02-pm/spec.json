@@ -1,0 +1,51 @@
+{
+ "slug": "knee-osteoarthritis-allogeneic-adipose-msc-jordan",
+ "file_ko": "무릎-관절증-줄기세포-이중맹검",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "무릎 · 이중맹검 시험 · 2026",
+  "lines": ["[[무릎 관절증 줄기세포]]", "관절에 두 번 주사", "{{결과가 나왔을까요?}}"],
+  "sub": "3기 환자 대상 60개월 추적 시험",
+  "badges": [
+   {"value": "3년", "label": "증상 점수 개선 유지"},
+   {"value": "43명", "label": "무작위 배정 3대 1"}
+  ],
+  "characters": ["doctor", "patient"]
+ },
+ "info_title": {"lines": ["[[무릎 관절증 줄기세포]]", "{{이중맹검}} 한눈에"]},
+ "summary": "소규모 시험이라, 더 큰 시험의 결과를 기다려야 해요.",
+ "source_line": "(출처: Stem Cells Transl Med 2026 · 마이애미대학)",
+ "sections": [
+  {"type": "list", "title": "연구 내용", "color": "sky", "character": "doctor",
+   "items": [
+    {"head": "세포", "text": "기증받은 지방 유래 간엽줄기세포"},
+    {"head": "방법", "text": "2주 간격으로 관절에 2회 주사"},
+    {"head": "대상", "text": "증상 있는 3기 무릎 관절증"}
+   ]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "folder",
+   "lead": "논문에 나온 숫자예요.",
+   "items": [
+    {"value": "36개월", "label": "증상 점수 개선이 이어진 기간", "note": "이후 점차 감소"},
+    {"value": "29명", "label": "끝까지 마친 사람", "note": "세포군 21명, 대조군 8명"}
+   ]},
+  {"type": "steps", "title": "정보를 볼 때 확인할 3단계", "color": "peach", "character": "calendar",
+   "items": [
+    {"title": "단계", "sub": "시험 단계와 규모는 어떤가"},
+    {"title": "대조군", "sub": "비교 집단이 있는가"},
+    {"title": "의료진", "sub": "적합 여부를 판단하는가"}
+   ]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "아직 승인된 치료가 아니에요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: Stem Cells Transl Med 2026;15(5):szag018 · 마이애미대학 (2026-10-19)\n이 그림은 공개된 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "무릎 관절증 줄기세포 이중맹검 시험",
+  "description": "3기 무릎 관절증 환자에게 지방 유래 간엽줄기세포를 주사한 이중맹검 시험 결과를 쉽게 정리.",
+  "keywords": ["무릎 관절증", "줄기세포", "간엽줄기세포", "이중맹검", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/knee-meniscus-stem-cell-synovial-msc-japan/",
+  "alt_cover": "무릎 관절증 줄기세포 연구 대표 그림",
+  "alt_info": "무릎 관절증 줄기세포 한눈에 보기"
+ }
+}
