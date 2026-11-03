@@ -39,4 +39,6 @@
 
 - 2026-11-02-pm | 척수·무릎(spine) | 3기 무릎 관절증 동종 지방 유래 MSC 이중맹검 RCT 43명 60개월 추적(Jafar 외, Stem Cells Transl Med 2026-04-27, NCT02966951, 요르단대)
 
-최근 분야: spine
+- 2026-11-03-pm | 심장·간·당뇨(organ) | 급성 심근경색 골수 유래 줄기세포 무작위 시험 25편 메타분석(Gu 외, BMC Cardiovasc Disord 2026-06-26)·관상동맥 간엽줄기세포 시험 메타분석(Chen 외, Clin Transl Sci 2026-07-25)
+
+최근 분야: organ

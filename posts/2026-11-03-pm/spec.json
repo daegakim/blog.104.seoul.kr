@@ -1,0 +1,51 @@
+{
+ "slug": "myocardial-infarction-stem-cell-meta-analysis",
+ "file_ko": "심근경색-줄기세포-분석",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "심근경색 · 무작위 시험 분석 · 2026",
+  "lines": ["[[심근경색 줄기세포]]", "시험 25편을 모았더니", "{{심장 기능은?}}"],
+  "sub": "골수 유래 줄기세포 1,822명 분석",
+  "badges": [
+   {"value": "2.45", "label": "박출률 평균 차이(%포인트)"},
+   {"value": "25편", "label": "무작위 대조 시험"}
+  ],
+  "characters": ["doctor", "patient"]
+ },
+ "info_title": {"lines": ["[[심근경색 줄기세포]]", "{{분석 결과}} 한눈에"]},
+ "summary": "박출률은 소폭 좋아졌고, 임상 결과는 더 큰 시험이 필요해요.",
+ "source_line": "(출처: BMC Cardiovasc Disord 2026 · Clin Transl Sci 2026)",
+ "sections": [
+  {"type": "list", "title": "분석 내용", "color": "sky", "character": "doctor",
+   "items": [
+    {"head": "대상", "text": "급성 심근경색 환자"},
+    {"head": "세포", "text": "골수 유래·간엽줄기세포"},
+    {"head": "방식", "text": "무작위 대조 시험 종합"}
+   ]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "folder",
+   "lead": "논문에 나온 숫자예요.",
+   "items": [
+    {"value": "2.45", "label": "골수 유래 줄기세포 박출률 차이", "note": "단위는 %포인트"},
+    {"value": "3.18", "label": "간엽줄기세포 관상동맥 투여", "note": "시험 6편 320명"}
+   ]},
+  {"type": "steps", "title": "정보를 볼 때 확인할 3단계", "color": "peach", "character": "calendar",
+   "items": [
+    {"title": "단계", "sub": "연구 단계와 규모는 어떤가"},
+    {"title": "대조군", "sub": "비교 집단이 있는가"},
+    {"title": "의료진", "sub": "적합 여부를 판단하는가"}
+   ]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "아직 승인된 치료가 아니에요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: BMC Cardiovasc Disord 2026;26(1):793 · Clin Transl Sci 2026;19(8):e70682\n이 그림은 공개된 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "심근경색 줄기세포 무작위 시험 분석",
+  "description": "급성 심근경색 환자 대상 줄기세포 무작위 시험을 모은 분석 결과를 쉽게 정리.",
+  "keywords": ["심근경색", "줄기세포", "간엽줄기세포", "박출률", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/heart-failure-stem-cell-ips-cardiomyocyte/",
+  "alt_cover": "심근경색 줄기세포 연구 대표 그림",
+  "alt_info": "심근경색 줄기세포 한눈에 보기"
+ }
+}
