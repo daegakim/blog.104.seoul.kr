@@ -1,0 +1,124 @@
+{
+ "slug": "stem-cell-culture-process",
+ "file_ko": "줄기세포-배양-과정",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "기초 개념 · 배양 과정",
+  "lines": [
+   "줄기세포 [[배양]],",
+   "{{얼마나 걸릴까요?}}"
+  ],
+  "sub": "채취부터 투여까지 순서",
+  "badges": [
+   {
+    "value": "2-3주",
+    "label": "스테미랙 배양"
+   },
+   {
+    "value": "약 1만 배",
+    "label": "세포 증식"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[줄기세포 배양]]",
+   "{{한눈에}}"
+  ]
+ },
+ "summary": "골수 속 줄기세포는 약 0.1%라서 몸 밖에서 늘려 씁니다.",
+ "source_line": "(출처: 도쿄로사이병원 · ISCT 2006 · 미국 FDA 2020 · Nipro)",
+ "sections": [
+  {
+   "type": "steps",
+   "title": "스테미랙 진행 순서",
+   "color": "sky",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "골수 채취",
+     "sub": "손상 뒤 31일 안"
+    },
+    {
+     "title": "배양",
+     "sub": "2-3주, 약 1만 배"
+    },
+    {
+     "title": "품질 확인",
+     "sub": "오염·세포 종류 점검"
+    },
+    {
+     "title": "정맥 투여",
+     "sub": "60분 주입"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "숫자로 보기",
+   "color": "lemon",
+   "character": "folder",
+   "lead": "공식 자료의 숫자예요.",
+   "items": [
+    {
+     "value": "0.1%",
+     "label": "골수액 속 줄기세포",
+     "note": "그래서 배양이 필요"
+    },
+    {
+     "value": "약 1억 개",
+     "label": "배양 뒤 세포 수",
+     "note": "약 1만 배 증식"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "줄기세포인지 확인하는 기준",
+   "color": "mint",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "붙어 자람",
+     "text": "플라스틱 표면에 붙어서 자람"
+    },
+    {
+     "head": "표지자",
+     "text": "CD105·CD73·CD90 있음, CD45·CD34 없음"
+    },
+    {
+     "head": "분화",
+     "text": "뼈·지방·연골세포로 분화 가능"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "미리 알아 두세요",
+   "color": "lilac",
+   "character": "shield",
+   "text": "배양 기간은 제품마다 달라요. 맞는 치료인지는 담당 의료진이 판단해요."
+  }
+ ],
+ "footer": "출처: 도쿄로사이병원 · ISCT 2006 Cytotherapy · 미국 FDA 2020 · Nipro 결산 자료\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "줄기세포 배양 과정",
+  "description": "줄기세포 채취부터 배양, 품질 확인, 투여까지 순서 정리.",
+  "keywords": [
+   "줄기세포 배양",
+   "간엽줄기세포",
+   "스테미랙",
+   "품질 검사",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/spinal-cord-injury-bone-marrow-stem-cell-stemirac/",
+  "alt_cover": "줄기세포 배양 과정 대표 그림",
+  "alt_info": "줄기세포 배양 한눈에 보기"
+ }
+}
