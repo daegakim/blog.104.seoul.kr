@@ -9,7 +9,7 @@
 1. 저장소 daegakim/geo-quality를 준비한다(세션에 없으면 add_repo(owner=daegakim, repo=geo-quality, access=push) 후 clone, 있으면 git pull). 루트의 GATE.md를 처음부터 끝까지 읽고 그대로 따른다.
 2. 그림: 대표그림·한눈에보기 2장에 더해 본문 그림을 늘려 **본문 이미지 3장 이상**, 모두 내용을 설명하는 alt. 게이트 결과의 상위 글 이미지 대표값보다 적으면 더 넣는다(naver_card.py 등 저장소 도구).
 3. queue.json을 Drive seoul104_queue에 저장(=발행 예약)하기 **전에**, styled.html을 geo-quality `queue/blog104-YYYYMMDD-am|pm-<짧은영문슬러그>.html`(+ 같은 이름 .json: keyword, base_url "https://blog.104.seoul.kr/", platform "blogger", engine "google", threshold 95, source_urls)로 올리고 `queue-results/`의 결과를 기다린다. 그림이 먼저 공개되도록 이 저장소 push는 게이트 전에 해도 된다.
-4. pass(Google Q 95 이상)일 때만 queue.json을 Drive에 저장한다. 아니면 결과(fix·short·paragraphs)대로 고쳐 -r2, -r3로 다시 올린다(최대 3번). 그래도 95 미만이거나 게이트 오류·20분 안에 결과 없음이면 Drive에 저장하지 않고, 알림에 최종 점수·남은 원인·report_url을 적는다.
+4. pass(Google Q 95 이상)일 때만 queue.json을 Drive에 저장한다. 95 미만이면 **보류하지 않고** 결과(fix·short·paragraphs)대로 고쳐 -r2, -r3, … 로 다시 올리기를 95점 이상이 될 때까지 횟수 제한 없이 되풀이한다(GATE.md 3절, 대표님 지시 2026-11-13 "몇 번이고 수정해서 95점 이상"). 게이트 오류·결과 지연이면 기다렸다 다시 올린다. 이번 실행 안에 끝나지 않으면 geo-quality `queue/<이름>.progress.md`에 남기고 다음 실행 때 새 글보다 먼저 이어서 고친다.
 5. 알림에 Google 품질 지수와 report_url을 함께 적는다.
 
 ## 글 규칙
