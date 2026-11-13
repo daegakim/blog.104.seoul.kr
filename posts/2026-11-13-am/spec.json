@@ -1,0 +1,51 @@
+{
+ "slug": "baby-tooth-stem-cell-banking",
+ "file_ko": "유치-줄기세포-보관",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "기초 개념 · 유치 줄기세포",
+  "lines": ["빠진 젖니 [[줄기세포]],", "{{보관하면 어떻게 쓰일까요?}}"],
+  "sub": "보관 방법·기간·연구 현황",
+  "badges": [
+   {"value": "2003년", "label": "NIH 첫 보고"},
+   {"value": "2년", "label": "냉동 뒤 분화 유지"}
+  ],
+  "characters": ["doctor", "patient"]
+ },
+ "info_title": {"lines": ["[[유치 줄기세포 보관]]", "{{한눈에}}"]},
+ "summary": "빠진 젖니의 치수에는 여러 세포로 분화하는 줄기세포가 있어요.",
+ "source_line": "(출처: NIH 2003 PNAS · 미국 소아치과학회 2026 · J Cell Physiol 2006 · SCTM 2021)",
+ "sections": [
+  {"type": "steps", "title": "보관까지의 흐름", "color": "sky", "character": "calendar",
+   "items": [
+    {"title": "젖니가 빠짐", "sub": "수술 없이 얻는 조직"},
+    {"title": "치수 확보", "sub": "치아 속 부드러운 조직"},
+    {"title": "세포 분리", "sub": "줄기세포를 골라 늘림"},
+    {"title": "냉동 보관", "sub": "알맞은 조건에서 보관"}
+   ]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "folder", "lead": "원문 논문의 숫자예요.",
+   "items": [
+    {"value": "2년", "label": "냉동 보관 뒤", "note": "뼈세포로 분화 유지"},
+    {"value": "24명", "label": "2형 당뇨 SHED 연구", "note": "6주간 3회 투여"}
+   ]},
+  {"type": "list", "title": "미국 소아치과학회 2026 정책", "color": "mint", "character": "doctor",
+   "items": [
+    {"head": "공급원", "text": "젖니 치수·사랑니·치주인대·잇몸"},
+    {"head": "보관", "text": "능력을 지키려면 알맞게 보관"},
+    {"head": "현재", "text": "보관 세포를 쓰는 치료는 아직 없음"}
+   ]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "연구는 계속 쌓이는 중이에요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: NIH Miura 외 PNAS 2003 · 미국 소아치과학회 2026 정책 · Papaccio 외 2006 · Li 외 2021\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "유치 줄기세포 보관",
+  "description": "빠진 젖니의 줄기세포 보관 방법, 보관 기간 연구, 사람 대상 연구 현황 정리.",
+  "keywords": ["유치 줄기세포", "SHED", "치아 줄기세포 보관", "치수 줄기세포", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/cerebral-palsy-shed-dental-pulp-stem-cells/",
+  "alt_cover": "유치 줄기세포 보관 대표 그림",
+  "alt_info": "유치 줄기세포 보관 한눈에 보기"
+ }
+}
