@@ -4,6 +4,14 @@
 - 발행: 지금 계정(fthvht@gmail.com) Apps Script에 `_ops/publish104.gs`를 추가(새 블로그 '이메일로 게시' 주소는 대표님이 직접 넣음). Drive `seoul104_queue`(id 1VZJFP42mKCPTjxh6bTRRpDhXJC6nfsTT) → 발행 뒤 `seoul104_published`(id 18lI2fptZWdA12ZiTGjsyolJOk-o_t6fj, 파일 설명에 '메일 발행 시각').
 - queue에 3시간 넘게 남은 파일이 있으면 발행이 멈춘 것이므로 새 글을 만들지 않고 보고만 한다(Apps Script publish104.gs·주소·setup104 확인).
 
+## ★ 2026-11-13 대표님 지시 — 발행 전 품질 게이트 (이 파일의 다른 규칙보다 우선)
+대표님: "네이버 이외 우리 전체 사이트는 품질 진단 사이트 구글 기준 95점 이상일 때 발행", "우리는 이미지가 부족한 것 같다."
+1. 저장소 daegakim/geo-quality를 준비한다(세션에 없으면 add_repo(owner=daegakim, repo=geo-quality, access=push) 후 clone, 있으면 git pull). 루트의 GATE.md를 처음부터 끝까지 읽고 그대로 따른다.
+2. 그림: 대표그림·한눈에보기 2장에 더해 본문 그림을 늘려 **본문 이미지 3장 이상**, 모두 내용을 설명하는 alt. 게이트 결과의 상위 글 이미지 대표값보다 적으면 더 넣는다(naver_card.py 등 저장소 도구).
+3. queue.json을 Drive seoul104_queue에 저장(=발행 예약)하기 **전에**, styled.html을 geo-quality `queue/blog104-YYYYMMDD-am|pm-<짧은영문슬러그>.html`(+ 같은 이름 .json: keyword, base_url "https://blog.104.seoul.kr/", platform "blogger", engine "google", threshold 95, source_urls)로 올리고 `queue-results/`의 결과를 기다린다. 그림이 먼저 공개되도록 이 저장소 push는 게이트 전에 해도 된다.
+4. pass(Google Q 95 이상)일 때만 queue.json을 Drive에 저장한다. 아니면 결과(fix·short·paragraphs)대로 고쳐 -r2, -r3로 다시 올린다(최대 3번). 그래도 95 미만이거나 게이트 오류·20분 안에 결과 없음이면 Drive에 저장하지 않고, 알림에 최종 점수·남은 원인·report_url을 적는다.
+5. 알림에 Google 품질 지수와 report_url을 함께 적는다.
+
 ## 글 규칙
 - 104 저장소 `CLAUDE.md`(글쓰기 기준·의료법)를 읽고 따른다. 한국 사이트 자료 금지, 해외 공식 기관(후생노동성·PMDA·FDA·EMA·ISSCR)·논문 원문만. 확인할 수 없는 내용은 쓰지 않는다.
 - 사람 대상 결과는 연구 단계(승인/임상시험 몇 상)를 분명히, 희망적이지만 정확하게. 효과 보장·완치·최고·유일 금지, 환자 후기 금지, '상담' 금지(→ 문의, 정보 안내), 물결표·번역투·겹말 0, 일본어 표기 쓰지 않음.
