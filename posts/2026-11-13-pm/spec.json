@@ -1,0 +1,51 @@
+{
+ "slug": "frailty-umbilical-cord-msc-2026",
+ "file_ko": "노쇠-탯줄-줄기세포-연구",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "노쇠 · 2상 무작위 시험 · 2026",
+  "lines": ["[[노쇠 탯줄 줄기세포]]", "고령자 148명 시험에서", "{{신체 기능은?}}"],
+  "sub": "베트남 2상·중국 퉁지대학 분석",
+  "badges": [
+   {"value": "1.1점", "label": "9개월 SPPB 평균 차이"},
+   {"value": "148명", "label": "2상 무작위 시험"}
+  ],
+  "characters": ["doctor", "patient"]
+ },
+ "info_title": {"lines": ["[[노쇠 탯줄 줄기세포]]", "{{연구 결과}} 한눈에"]},
+ "summary": "신체 기능 점수가 좋아졌고, 더 큰 3상 시험이 다음 단계예요.",
+ "source_line": "(출처: eBioMedicine 2026 · Front Immunol 2026)",
+ "sections": [
+  {"type": "list", "title": "연구 내용", "color": "sky", "character": "doctor",
+   "items": [
+    {"head": "대상", "text": "60세 이상 노쇠 고령자"},
+    {"head": "세포", "text": "탯줄 유래 간엽줄기세포"},
+    {"head": "방식", "text": "정맥 투여 2회"}
+   ]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "folder",
+   "lead": "논문에 나온 숫자예요.",
+   "items": [
+    {"value": "1.1", "label": "9개월 SPPB 점수 차이", "note": "12점 만점 검사"},
+    {"value": "0건", "label": "치료 관련 중대한 이상 반응", "note": "베트남 2상 73명"}
+   ]},
+  {"type": "steps", "title": "정보를 볼 때 확인할 3단계", "color": "peach", "character": "calendar",
+   "items": [
+    {"title": "단계", "sub": "몇 상 시험인가"},
+    {"title": "대조군", "sub": "위약과 비교했는가"},
+    {"title": "의료진", "sub": "적합 여부를 판단하는가"}
+   ]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "아직 임상시험 단계예요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: eBioMedicine 2026;127:106268 · Front Immunol 2026;17:1796161\n이 그림은 공개된 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "노쇠 탯줄 줄기세포 2상 시험 결과",
+  "description": "노쇠 고령자 대상 탯줄 유래 간엽줄기세포 무작위 시험 결과를 쉽게 정리.",
+  "keywords": ["노쇠", "프레일", "탯줄 줄기세포", "간엽줄기세포", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/frailty-msc-trials/",
+  "alt_cover": "노쇠 탯줄 줄기세포 연구 대표 그림",
+  "alt_info": "노쇠 탯줄 줄기세포 한눈에 보기"
+ }
+}
