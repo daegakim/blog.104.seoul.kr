@@ -1,0 +1,106 @@
+{
+ "slug": "skin-wound-stem-cell-trials",
+ "file_ko": "화상-엑소좀-일본-배양표피",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 피부 재생",
+  "lines": [
+   "[[피부 상처 줄기세포]],",
+   "{{어디까지 왔을까요?}}"
+  ],
+  "sub": "무작위 시험 232명 · 궤양 시험 11편",
+  "badges": [
+   {
+    "value": "232명",
+    "label": "피부 결손 무작위 시험"
+   },
+   {
+    "value": "11편",
+    "label": "만성 궤양 시험 분석"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[화상 엑소좀 시험]]",
+   "{{일본 배양 표피}}"
+  ]
+ },
+ "summary": "바르는 엑소좀은 1/2a상 첫 사례가 나왔어요.",
+ "source_line": "(출처: Schulman 외 J Burn Care Res 2026 · PMDA 2007)",
+ "sections": [
+  {
+   "type": "steps",
+   "title": "화상 엑소좀 1/2a상 첫 사례",
+   "color": "sky",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "48시간 안",
+     "sub": "한 번 바름"
+    },
+    {
+     "title": "1주",
+     "sub": "99% 넘게 닫힘"
+    },
+    {
+     "title": "52주",
+     "sub": "통증·가려움 일찍 사라짐"
+    },
+    {
+     "title": "1년 넘게",
+     "sub": "닫힌 상태 유지"
+    }
+   ],
+   "lead": "깊은 2도 화상 48세 남성 1명, 이상 반응 없음"
+  },
+  {
+   "type": "list",
+   "title": "일본 PMDA 심사(2007-08-06)",
+   "color": "mint",
+   "character": "folder",
+   "items": [
+    {
+     "head": "제품",
+     "text": "자기 배양 표피 JACE (J-TEC)"
+    },
+    {
+     "head": "대상",
+     "text": "깊은 2도·3도 화상 면적 30% 이상"
+    },
+    {
+     "head": "조건",
+     "text": "옮겨 붙일 자기 피부가 모자랄 때"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "미리 알아 두세요",
+   "color": "lilac",
+   "character": "shield",
+   "text": "엑소좀을 바르는 방법은 아직 시험 단계예요. 나에게 맞는지는 담당 의료진이 판단해요."
+  }
+ ],
+ "footer": "출처: Schulman 외, J Burn Care Res 2026;47(6):1934-1938 · PMDA JACE 심사 보고서(2007)\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "화상 엑소좀과 일본 배양 표피",
+  "description": "피부 결손 232명 무작위 시험, 만성 궤양 11편 메타분석, 화상 엑소좀 1/2a상, 일본 JACE 승인 정리.",
+  "keywords": [
+   "피부 상처 줄기세포",
+   "표피 줄기세포",
+   "화상 엑소좀",
+   "만성 궤양 줄기세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/hair-loss-exosome-stem-cell/",
+  "alt_cover": "화상 엑소좀 대표 그림",
+  "alt_info": "화상 엑소좀 1/2a상과 일본 배양 표피 정리"
+ }
+}

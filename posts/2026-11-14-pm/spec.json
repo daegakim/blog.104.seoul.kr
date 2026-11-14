@@ -1,0 +1,111 @@
+{
+ "slug": "skin-wound-stem-cell-trials",
+ "file_ko": "피부-상처-줄기세포-연구",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 피부 재생",
+  "lines": [
+   "[[피부 상처 줄기세포]],",
+   "{{어디까지 왔을까요?}}"
+  ],
+  "sub": "무작위 시험 232명 · 궤양 시험 11편",
+  "badges": [
+   {
+    "value": "232명",
+    "label": "피부 결손 무작위 시험"
+   },
+   {
+    "value": "11편",
+    "label": "만성 궤양 시험 분석"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[피부 상처 줄기세포]]",
+   "{{한눈에}}"
+  ]
+ },
+ "summary": "사람 대상 시험에서 상처가 더 빨리 아물었어요.",
+ "source_line": "(출처: Hu 외 MedComm 2026 · Teixeira 외 J Vasc Bras 2026)",
+ "sections": [
+  {
+   "type": "bars",
+   "title": "2주 안에 다 아문 비율",
+   "color": "sky",
+   "character": "folder",
+   "lead": "전층 피부 결손 232명 무작위 시험이에요.",
+   "items": [
+    {
+     "label": "세포 추가",
+     "value": 66.7,
+     "display": "66.7% (80/120)"
+    },
+    {
+     "label": "표준 수술",
+     "value": 54.5,
+     "display": "54.5% (61/112)"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "6개월 흉터 점수",
+   "color": "lemon",
+   "character": "calendar",
+   "lead": "점수가 낮을수록 흉터가 덜 남아요.",
+   "items": [
+    {
+     "value": "3.0",
+     "label": "세포 추가 무리",
+     "note": "중앙값"
+    },
+    {
+     "value": "6.0",
+     "label": "표준 수술 무리",
+     "note": "중앙값"
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "title": "만성 궤양 완전히 아문 비율",
+   "color": "mint",
+   "character": "doctor",
+   "lead": "무작위 시험 11편, 474명을 묶었어요.",
+   "items": [
+    {
+     "label": "지방 줄기세포",
+     "value": 84.2,
+     "display": "84.2%"
+    },
+    {
+     "label": "기존 치료",
+     "value": 49.0,
+     "display": "49.0%"
+    }
+   ]
+  }
+ ],
+ "footer": "출처: Hu 외 MedComm 2026;7(9):e70973 · Teixeira 외 J Vasc Bras 2026;25:e20250139\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "피부 상처 줄기세포 연구",
+  "description": "피부 결손 232명 무작위 시험, 만성 궤양 11편 메타분석, 화상 엑소좀 1/2a상, 일본 JACE 승인 정리.",
+  "keywords": [
+   "피부 상처 줄기세포",
+   "표피 줄기세포",
+   "화상 엑소좀",
+   "만성 궤양 줄기세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/hair-loss-exosome-stem-cell/",
+  "alt_cover": "피부 상처 줄기세포 연구 대표 그림",
+  "alt_info": "피부 상처 줄기세포 연구 한눈에 보기"
+ }
+}
