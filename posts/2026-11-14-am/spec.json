@@ -1,0 +1,50 @@
+{
+ "slug": "exosome-clinical-trial-phases",
+ "file_ko": "엑소좀-임상시험-단계",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "기초 개념 · 엑소좀",
+  "lines": ["[[엑소좀 임상시험]],", "{{지금 몇 상일까요?}}"],
+  "sub": "등록 연구 355건 단계 분석",
+  "badges": [
+   {"value": "355건", "label": "2025년 말 등록"},
+   {"value": "3건", "label": "3상 시험"}
+  ],
+  "characters": ["doctor", "patient"]
+ },
+ "info_title": {"lines": ["[[엑소좀 임상시험]]", "{{한눈에}}"]},
+ "summary": "사람 대상 엑소좀 연구는 대부분 초기 단계예요.",
+ "source_line": "(출처: Wei 외 Clin Exp Med 2026 · ClinicalTrials.gov)",
+ "sections": [
+  {"type": "bars", "title": "중재 연구 148건의 단계", "color": "sky", "character": "folder",
+   "items": [
+    {"label": "1상", "value": 31.1, "display": "46건 (31.1%)"},
+    {"label": "1·2상", "value": 24.3, "display": "36건 (24.3%)"},
+    {"label": "3상", "value": 2.0, "display": "3건"}
+   ]},
+  {"type": "stats", "title": "숫자로 보기", "color": "lemon", "character": "calendar", "lead": "2025년 12월 31일 기준이에요.",
+   "items": [
+    {"value": "355건", "label": "사람 유래 소포 연구", "note": "관찰 207 · 중재 148"},
+    {"value": "66.2%", "label": "간엽줄기세포 유래", "note": "중재 연구 98건"}
+   ]},
+  {"type": "list", "title": "많이 쓰는 투여 방법", "color": "mint", "character": "doctor",
+   "items": [
+    {"head": "정맥", "text": "46건(31.1%)"},
+    {"head": "피하 주사", "text": "24건(16.2%)"},
+    {"head": "흡입·드레싱", "text": "각 14건(9.5%)"}
+   ]},
+  {"type": "note", "title": "미리 알아 두세요", "color": "lilac", "character": "shield",
+   "text": "3상 결과가 나오면 효과를 더 분명히 알 수 있어요. 맞는 치료인지는 담당 의료진이 판단해요."}
+ ],
+ "footer": "출처: Wei 외, Clin Exp Med 2026;26:200 · ClinicalTrials.gov\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "엑소좀 임상시험 단계",
+  "description": "2025년 말까지 등록된 사람 대상 엑소좀 임상시험 355건의 단계·질환·투여 방법 정리.",
+  "keywords": ["엑소좀 임상시험", "세포외소포", "엑소좀 3상", "간엽줄기세포 엑소좀", "FTH"],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/hair-loss-exosome-stem-cell/",
+  "alt_cover": "엑소좀 임상시험 단계 대표 그림",
+  "alt_info": "엑소좀 임상시험 한눈에 보기"
+ }
+}
