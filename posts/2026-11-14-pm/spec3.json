@@ -1,0 +1,104 @@
+{
+ "slug": "skin-wound-stem-cell-trials",
+ "file_ko": "표피-줄기세포-시험-흐름",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 피부 재생",
+  "lines": [
+   "[[피부 상처 줄기세포]],",
+   "{{어디까지 왔을까요?}}"
+  ],
+  "sub": "무작위 시험 232명 · 궤양 시험 11편",
+  "badges": [
+   {
+    "value": "232명",
+    "label": "피부 결손 무작위 시험"
+   },
+   {
+    "value": "11편",
+    "label": "만성 궤양 시험 분석"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[표피 줄기세포 시험]]",
+   "{{어떻게 했을까요?}}"
+  ]
+ },
+ "summary": "오래 배양하지 않고 수술 중 바로 준비했어요.",
+ "source_line": "(출처: Hu 외 MedComm 2026 · NCT02070809)",
+ "sections": [
+  {
+   "type": "steps",
+   "title": "수술 중 한 번에",
+   "color": "sky",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "피부 채취",
+     "sub": "환자 자기 피부"
+    },
+    {
+     "title": "세포 부유액",
+     "sub": "수술 중 바로 준비"
+    },
+    {
+     "title": "뿌리고 덮기",
+     "sub": "진피 기질 위"
+    },
+    {
+     "title": "6개월 평가",
+     "sub": "밴쿠버 흉터 척도"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "두 무리 나누기",
+   "color": "lemon",
+   "character": "folder",
+   "lead": "9cm² 이상 전층 피부 결손 232명이에요.",
+   "items": [
+    {
+     "value": "120명",
+     "label": "세포 추가 무리",
+     "note": "표준 수술 + 표피 줄기세포"
+    },
+    {
+     "value": "112명",
+     "label": "표준 수술 무리",
+     "note": "진피 기질 + 얇은 피부 이식"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "안전성",
+   "color": "lilac",
+   "character": "shield",
+   "text": "6개월 동안 치료와 관련된 이상 반응은 보고되지 않았어요."
+  }
+ ],
+ "footer": "출처: Hu 외, MedComm 2026;7(9):e70973 · ClinicalTrials.gov NCT02070809\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "표피 줄기세포 시험 흐름",
+  "description": "피부 결손 232명 무작위 시험, 만성 궤양 11편 메타분석, 화상 엑소좀 1/2a상, 일본 JACE 승인 정리.",
+  "keywords": [
+   "피부 상처 줄기세포",
+   "표피 줄기세포",
+   "화상 엑소좀",
+   "만성 궤양 줄기세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/hair-loss-exosome-stem-cell/",
+  "alt_cover": "표피 줄기세포 시험 대표 그림",
+  "alt_info": "표피 줄기세포 무작위 시험 진행 순서"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "skin-wound-stem-cell-trials",
+ "file_ko": "만성-궤양-지방-줄기세포-분석",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 피부 재생",
+  "lines": [
+   "[[피부 상처 줄기세포]],",
+   "{{어디까지 왔을까요?}}"
+  ],
+  "sub": "무작위 시험 232명 · 궤양 시험 11편",
+  "badges": [
+   {
+    "value": "232명",
+    "label": "피부 결손 무작위 시험"
+   },
+   {
+    "value": "11편",
+    "label": "만성 궤양 시험 분석"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[만성 궤양]]",
+   "{{지방 줄기세포 분석}}"
+  ]
+ },
+ "summary": "무작위 시험 11편, 474명을 묶어 봤어요.",
+ "source_line": "(출처: Teixeira 외 J Vasc Bras 2026)",
+ "sections": [
+  {
+   "type": "stats",
+   "title": "숫자로 보기",
+   "color": "mint",
+   "character": "folder",
+   "lead": "팔다리에 생긴 오래 낫지 않는 궤양이에요.",
+   "items": [
+    {
+     "value": "11편",
+     "label": "무작위 시험",
+     "note": "환자 474명"
+    },
+    {
+     "value": "19.39일",
+     "label": "아무는 기간 단축",
+     "note": "평균"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "함께 본 결과",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "완전히 아문 비율",
+     "text": "84.2% 대 49.0%"
+    },
+    {
+     "head": "통증·합병증",
+     "text": "두 무리 사이 의미 있는 차이 없음 (p=0.22)"
+    },
+    {
+     "head": "연구진 의견",
+     "text": "방법이 달라 더 큰 시험이 필요"
+    }
+   ]
+  }
+ ],
+ "footer": "출처: Teixeira 외, J Vasc Bras 2026;25:e20250139\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "만성 궤양 지방 줄기세포 분석",
+  "description": "피부 결손 232명 무작위 시험, 만성 궤양 11편 메타분석, 화상 엑소좀 1/2a상, 일본 JACE 승인 정리.",
+  "keywords": [
+   "피부 상처 줄기세포",
+   "표피 줄기세포",
+   "화상 엑소좀",
+   "만성 궤양 줄기세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/blog/hair-loss-exosome-stem-cell/",
+  "alt_cover": "만성 궤양 대표 그림",
+  "alt_info": "만성 궤양 지방 줄기세포 메타분석 정리"
+ }
+}
