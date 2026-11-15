@@ -1,0 +1,111 @@
+{
+ "slug": "stroke-uc-msc-merit-phase1",
+ "file_ko": "뇌경색-줄기세포-정맥-주사-1상",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 뇌경색",
+  "lines": [
+   "[[뇌경색 줄기세포]]",
+   "{{정맥 주사 1상 결과는?}}"
+  ],
+  "sub": "탯줄 간엽줄기세포 · 2026년 5월 발표",
+  "badges": [
+   {
+    "value": "18명",
+    "label": "아급성기 1상 참여"
+   },
+   {
+    "value": "0건",
+    "label": "중대한 이상 반응"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[뇌경색 줄기세포]]",
+   "{{한눈에}}"
+  ]
+ },
+ "summary": "1상에서 중대한 이상 반응은 없었어요.",
+ "source_line": "(출처: Cui 외 Cell Rep Med 2026 · 호프스템 발표 2026)",
+ "sections": [
+  {
+   "type": "stats",
+   "title": "MERIT 1상 안전성 (24주)",
+   "color": "sky",
+   "character": "shield",
+   "lead": "아급성기 뇌경색 18명이 참여했어요.",
+   "items": [
+    {
+     "value": "0건",
+     "label": "중대한 이상 반응",
+     "note": "용량 제한 독성 0건"
+    },
+    {
+     "value": "48건",
+     "label": "이상 반응",
+     "note": "모두 1·2등급"
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "title": "24주 기능 점수 상승",
+   "color": "mint",
+   "character": "doctor",
+   "lead": "투여 전과 비교한 평균값이에요.",
+   "items": [
+    {
+     "label": "바델 지수",
+     "value": 31.6,
+     "display": "+31.6점"
+    },
+    {
+     "label": "푸글마이어",
+     "value": 14.7,
+     "display": "+14.7점"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "만성기 신경 전구세포",
+   "color": "lemon",
+   "character": "calendar",
+   "lead": "iPS 세포 유래 hNPC01 회사 발표예요.",
+   "items": [
+    {
+     "value": "+16점",
+     "label": "12개월 운동 점수",
+     "note": "대상 하위 무리 평균"
+    },
+    {
+     "value": "RMAT",
+     "label": "미국 FDA 지정",
+     "note": "허혈성 뇌졸중"
+    }
+   ]
+  }
+ ],
+ "footer": "출처: Cui 외 Cell Rep Med 2026;7(6):102836 · 호프스템 발표 2026-07-29\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "뇌경색 줄기세포 정맥 주사 1상",
+  "description": "뇌경색 탯줄 간엽줄기세포 정맥 주사 MERIT 1상 18명, 중대한 이상 반응 0건, 바델 지수 31.6점 상승과 신경 전구세포 연구 정리.",
+  "keywords": [
+   "뇌경색 줄기세포",
+   "탯줄 줄기세포 정맥 주사",
+   "뇌졸중 줄기세포 임상시험",
+   "신경 전구세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/brain/stroke/",
+  "alt_cover": "뇌경색 줄기세포 정맥 주사 1상 대표 그림",
+  "alt_info": "뇌경색 줄기세포 연구 한눈에 보기"
+ }
+}

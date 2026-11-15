@@ -1,0 +1,106 @@
+{
+ "slug": "stroke-uc-msc-merit-phase1",
+ "file_ko": "MERIT-1상-진행-순서",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "해외 최신 연구 · 뇌경색",
+  "lines": [
+   "[[뇌경색 줄기세포]]",
+   "{{정맥 주사 1상 결과는?}}"
+  ],
+  "sub": "탯줄 간엽줄기세포 · 2026년 5월 발표",
+  "badges": [
+   {
+    "value": "18명",
+    "label": "아급성기 1상 참여"
+   },
+   {
+    "value": "0건",
+    "label": "중대한 이상 반응"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[MERIT 1상]]",
+   "{{어떻게 진행됐나}}"
+  ]
+ },
+ "summary": "용량을 세 단계로 나눠 한 번 주사했어요.",
+ "source_line": "(출처: Cui 외 Cell Rep Med 2026)",
+ "sections": [
+  {
+   "type": "steps",
+   "title": "시험 순서",
+   "color": "sky",
+   "character": "calendar",
+   "items": [
+    {
+     "title": "환자 선정",
+     "sub": "발병 12주에서 24주"
+    },
+    {
+     "title": "정맥 주사",
+     "sub": "한 번, 천천히"
+    },
+    {
+     "title": "12주 평가",
+     "sub": "안전성·기능"
+    },
+    {
+     "title": "24주 평가",
+     "sub": "주요 평가지표"
+    }
+   ],
+   "lead": "한 병원, 대조군 없는 공개 1상"
+  },
+  {
+   "type": "list",
+   "title": "세 가지 용량 (무리마다 6명)",
+   "color": "mint",
+   "character": "folder",
+   "items": [
+    {
+     "head": "1무리",
+     "text": "탯줄 간엽줄기세포 5천만 개"
+    },
+    {
+     "head": "2무리",
+     "text": "탯줄 간엽줄기세포 1억 개"
+    },
+    {
+     "head": "3무리",
+     "text": "탯줄 간엽줄기세포 2억 개"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "참여 조건",
+   "color": "lilac",
+   "character": "shield",
+   "text": "앞쪽 뇌혈관이 막힌 뇌경색, NIHSS 6점에서 20점, 평균 나이 52.5세였어요."
+  }
+ ],
+ "footer": "출처: Cui 외, Cell Rep Med 2026;7(6):102836 (NCT05697718)\n이 그림은 공개된 기관 자료와 논문을 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "MERIT 1상 진행 순서",
+  "description": "뇌경색 탯줄 간엽줄기세포 정맥 주사 MERIT 1상 18명, 중대한 이상 반응 0건, 바델 지수 31.6점 상승과 신경 전구세포 연구 정리.",
+  "keywords": [
+   "뇌경색 줄기세포",
+   "탯줄 줄기세포 정맥 주사",
+   "뇌졸중 줄기세포 임상시험",
+   "신경 전구세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/brain/stroke/",
+  "alt_cover": "MERIT 1상 대표 그림",
+  "alt_info": "MERIT 1상 진행 순서"
+ }
+}
