@@ -1,0 +1,89 @@
+{
+ "slug": "japan-regenerative-act-classes",
+ "file_ko": "재생의료법-2025년-개정",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "일본 제도 · 재생의료법",
+  "lines": [
+   "[[일본 재생의료법]]",
+   "{{1종·2종·3종 차이는?}}"
+  ],
+  "sub": "위험도에 따른 세 단계 · 2026년 6월 기준",
+  "badges": [
+   {
+    "value": "3단계",
+    "label": "위험도에 따른 분류"
+   },
+   {
+    "value": "6,828건",
+    "label": "제출된 제공계획"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[2025년 개정]]",
+   "{{무엇이 바뀌었나?}}"
+  ]
+ },
+ "summary": "2025년 5월 31일부터 시행되었어요.",
+ "source_line": "(출처: 후생노동성 재생의료 안내 · 긴키후생국 안내)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "새로 대상이 된 것",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "in vivo 유전자 치료",
+     "text": "세포 가공물 없이 몸 안에서 유전자를 넣거나 바꾸는 치료"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "title": "위원회 규정 정비",
+   "color": "lemon",
+   "character": "folder",
+   "items": [
+    {
+     "head": "설치자 결격 사유",
+     "text": "공정한 심사를 위한 규정"
+    },
+    {
+     "head": "현장 조사",
+     "text": "위원회 설치자에 대한 조사 규정"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "법의 대상이 아닌 것",
+   "color": "lilac",
+   "character": "shield",
+   "text": "설명 자료는 RNA 간섭·안티센스 핵산 의약과 세포외소포(엑소좀 등) 기술을 대상 밖으로 적어요."
+  }
+ ],
+ "footer": "출처: 후생노동성 「재생의료 등 안전성 확보법 설명 자료」\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "재생의료법 2025년 개정",
+  "description": "일본 재생의료법의 위험도별 1종·2종·3종 분류 기준, 심사 절차, 2026년 6월 제공계획 수와 2025년 개정 정리.",
+  "keywords": [
+   "일본 재생의료법",
+   "재생의료 1종 2종 3종",
+   "제공계획",
+   "후생노동성",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/other/japan-regulation/",
+  "alt_cover": "일본 재생의료법 1종·2종·3종 대표 그림",
+  "alt_info": "2025년 재생의료법 개정 내용 그림"
+ }
+}

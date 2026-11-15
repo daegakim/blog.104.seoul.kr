@@ -1,0 +1,115 @@
+{
+ "slug": "japan-regenerative-act-classes",
+ "file_ko": "일본-재생의료법-1종-2종-3종",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "일본 제도 · 재생의료법",
+  "lines": [
+   "[[일본 재생의료법]]",
+   "{{1종·2종·3종 차이는?}}"
+  ],
+  "sub": "위험도에 따른 세 단계 · 2026년 6월 기준",
+  "badges": [
+   {
+    "value": "3단계",
+    "label": "위험도에 따른 분류"
+   },
+   {
+    "value": "6,828건",
+    "label": "제출된 제공계획"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[1종·2종·3종]]",
+   "{{한눈에}}"
+  ]
+ },
+ "summary": "분류는 효과가 아니라 위험도에 따른 절차의 차이예요.",
+ "source_line": "(출처: 후생노동성 시행 현황, 2026년 6월 30일 현재)",
+ "sections": [
+  {
+   "type": "bars",
+   "title": "제출된 제공계획 수",
+   "color": "sky",
+   "character": "folder",
+   "lead": "치료와 연구를 더한 건수예요.",
+   "items": [
+    {
+     "label": "3종",
+     "value": 4305,
+     "display": "4,305건"
+    },
+    {
+     "label": "2종",
+     "value": 2504,
+     "display": "2,504건"
+    },
+    {
+     "label": "1종",
+     "value": 19,
+     "display": "19건"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "심사 위원회",
+   "color": "lemon",
+   "character": "calendar",
+   "lead": "1종·2종은 특정인정 위원회가 심사해요.",
+   "items": [
+    {
+     "value": "80곳",
+     "label": "특정인정 위원회",
+     "note": "1종·2종 심사"
+    },
+    {
+     "value": "87곳",
+     "label": "인정 위원회",
+     "note": "3종만 심사"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "세포 가공 시설",
+   "color": "mint",
+   "character": "shield",
+   "items": [
+    {
+     "value": "85곳",
+     "label": "허가",
+     "note": "제조 허가"
+    },
+    {
+     "value": "3,586곳",
+     "label": "신고",
+     "note": "의료기관 등"
+    }
+   ]
+  }
+ ],
+ "footer": "출처: 후생노동성 「재생의료 등 안전성 확보법 시행 현황」(2026년 6월 30일 현재)\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "일본 재생의료법 1종·2종·3종",
+  "description": "일본 재생의료법의 위험도별 1종·2종·3종 분류 기준, 심사 절차, 2026년 6월 제공계획 수와 2025년 개정 정리.",
+  "keywords": [
+   "일본 재생의료법",
+   "재생의료 1종 2종 3종",
+   "제공계획",
+   "후생노동성",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/other/japan-regulation/",
+  "alt_cover": "일본 재생의료법 1종·2종·3종 대표 그림",
+  "alt_info": "일본 재생의료법 1종·2종·3종 한눈에 보기"
+ }
+}

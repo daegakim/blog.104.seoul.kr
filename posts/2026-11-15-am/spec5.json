@@ -1,0 +1,81 @@
+{
+ "slug": "japan-regenerative-act-classes",
+ "file_ko": "재생의료법-확인할-점",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "일본 제도 · 재생의료법",
+  "lines": [
+   "[[일본 재생의료법]]",
+   "{{1종·2종·3종 차이는?}}"
+  ],
+  "sub": "위험도에 따른 세 단계 · 2026년 6월 기준",
+  "badges": [
+   {
+    "value": "3단계",
+    "label": "위험도에 따른 분류"
+   },
+   {
+    "value": "6,828건",
+    "label": "제출된 제공계획"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[분류를 볼 때]]",
+   "{{기억할 점}}"
+  ]
+ },
+ "summary": "공개 자료로 절차를 확인할 수 있어요.",
+ "source_line": "(출처: 후생노동성 재생의료법 설명 자료)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "꼭 알아 두기",
+   "color": "mint",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "분류 = 위험도",
+     "text": "효과의 크기를 뜻하지 않아요"
+    },
+    {
+     "head": "제공계획 제출 = 절차 이행",
+     "text": "국가가 효과를 인정했다는 뜻이 아니에요"
+    },
+    {
+     "head": "계획 없이 제공",
+     "text": "벌칙 대상이에요"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "내 경우는?",
+   "color": "sky",
+   "character": "patient",
+   "text": "쓰는 세포와 방법에 따라 다르므로 담당 의료진이 설명해요."
+  }
+ ],
+ "footer": "출처: 후생노동성 「재생의료 등 안전성 확보법 설명 자료」\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "재생의료법 확인할 점",
+  "description": "일본 재생의료법의 위험도별 1종·2종·3종 분류 기준, 심사 절차, 2026년 6월 제공계획 수와 2025년 개정 정리.",
+  "keywords": [
+   "일본 재생의료법",
+   "재생의료 1종 2종 3종",
+   "제공계획",
+   "후생노동성",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/other/japan-regulation/",
+  "alt_cover": "일본 재생의료법 1종·2종·3종 대표 그림",
+  "alt_info": "재생의료법 분류를 볼 때 확인할 점 그림"
+ }
+}

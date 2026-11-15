@@ -1,0 +1,102 @@
+{
+ "slug": "japan-regenerative-act-classes",
+ "file_ko": "재생의료법-단계별-절차",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "일본 제도 · 재생의료법",
+  "lines": [
+   "[[일본 재생의료법]]",
+   "{{1종·2종·3종 차이는?}}"
+  ],
+  "sub": "위험도에 따른 세 단계 · 2026년 6월 기준",
+  "badges": [
+   {
+    "value": "3단계",
+    "label": "위험도에 따른 분류"
+   },
+   {
+    "value": "6,828건",
+    "label": "제출된 제공계획"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[단계별 절차]]",
+   "{{무엇이 다를까?}}"
+  ]
+ },
+ "summary": "세 단계 모두 계획을 내야 제공할 수 있어요.",
+ "source_line": "(출처: 후생노동성 재생의료법 설명 자료)",
+ "sections": [
+  {
+   "type": "steps",
+   "title": "공통 순서",
+   "color": "sky",
+   "items": [
+    {
+     "title": "계획 작성",
+     "sub": "의료기관"
+    },
+    {
+     "title": "위원회 심사",
+     "sub": "특정인정 또는 인정"
+    },
+    {
+     "title": "계획 제출",
+     "sub": "후생노동대신"
+    },
+    {
+     "title": "제공 시작",
+     "sub": "2종·3종"
+    }
+   ]
+  },
+  {
+   "type": "stats",
+   "title": "1종만 더 있는 단계",
+   "color": "pink",
+   "character": "calendar",
+   "items": [
+    {
+     "value": "90일",
+     "label": "제공 제한 기간",
+     "note": "후생과학심의회 의견"
+    },
+    {
+     "value": "변경 명령",
+     "label": "기준에 맞지 않으면",
+     "note": "계획 변경"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "1종·2종 의료기관",
+   "color": "lilac",
+   "character": "doctor",
+   "text": "실시 책임자(의사·치과의사)와 구급 의료 시설·설비를 갖춰야 해요."
+  }
+ ],
+ "footer": "출처: 후생노동성 「재생의료 등 안전성 확보법 설명 자료」\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "재생의료법 단계별 절차",
+  "description": "일본 재생의료법의 위험도별 1종·2종·3종 분류 기준, 심사 절차, 2026년 6월 제공계획 수와 2025년 개정 정리.",
+  "keywords": [
+   "일본 재생의료법",
+   "재생의료 1종 2종 3종",
+   "제공계획",
+   "후생노동성",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/other/japan-regulation/",
+  "alt_cover": "일본 재생의료법 1종·2종·3종 대표 그림",
+  "alt_info": "재생의료법 단계별 절차 그림"
+ }
+}
