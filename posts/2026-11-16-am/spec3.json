@@ -1,0 +1,77 @@
+{
+ "slug": "japan-regen-plan-public-list",
+ "file_ko": "치료-연구-목록-구분",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "일본 제도 · 제공계획 확인",
+  "lines": [
+   "[[재생의료 제공계획]]",
+   "{{어디서 확인할까?}}"
+  ],
+  "sub": "후생노동성 공개 목록 보는 법",
+  "badges": [
+   {
+    "value": "3가지 목록",
+    "label": "1종·2종·3종 치료"
+   },
+   {
+    "value": "jRCT",
+    "label": "연구 계획 공개"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "patient"
+  ]
+ },
+ "info_title": {
+  "lines": [
+   "[[치료와 연구]]",
+   "{{보는 곳이 달라요}}"
+  ]
+ },
+ "summary": "연구는 jRCT, 치료는 1종·2종·3종 목록이에요.",
+ "source_line": "(출처: 후생노동성 재생의료 등 제공기관 정보 안내)",
+ "sections": [
+  {
+   "type": "list",
+   "title": "어디서 볼까?",
+   "color": "sky",
+   "character": "doctor",
+   "items": [
+    {
+     "head": "치료 목적",
+     "text": "e-재생의료 사이트의 1종·2종·3종 치료 목록"
+    },
+    {
+     "head": "연구 목적",
+     "text": "jRCT(임상연구 등 제출·공개 시스템)"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "jRCT 검색 칸",
+   "color": "lilac",
+   "character": "calendar",
+   "text": "자유어, 대상 질환 이름, 연구 진행 상황, 의료기관 주소(도도부현)로 찾을 수 있고 영어 화면도 있어요."
+  }
+ ],
+ "footer": "출처: 후생노동성 「재생의료 등 제공기관의 정보에 대하여」, 「재생의료 등 안전성 확보법 시행 현황」(2026년 6월 30일 현재)\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "일본 재생의료 제공계획 확인 방법",
+  "description": "후생노동성이 공개하는 재생의료 등 제공계획 목록(1종·2종·3종 치료, jRCT 연구)을 확인하는 순서와 볼 항목 정리.",
+  "keywords": [
+   "재생의료 제공계획",
+   "후생노동성",
+   "jRCT",
+   "일본 줄기세포",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/stem-cell/other/japan-regulation/",
+  "alt_cover": "일본 재생의료 제공계획 확인 방법 대표 그림",
+  "alt_info": "재생의료 제공계획 확인 순서 한눈에 보기"
+ }
+}
