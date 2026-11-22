@@ -1,0 +1,80 @@
+{
+ "slug": "ema-approved-cell-therapy",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "유럽 EMA · 세포치료제 승인 현황",
+  "lines": [
+   "[[유럽 EMA 승인]]",
+   "{{세포치료제}}"
+  ],
+  "sub": "대표 제품 세 가지로 정리했어요",
+  "badges": [
+   {
+    "value": "72%",
+    "label": "홀로클라 1년 뒤 각막 표면 안정"
+   },
+   {
+    "value": "84%",
+    "label": "젬셀프로 호중구 생착"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "folder",
+   "patient"
+  ]
+ },
+ "source_line": "(출처: 유럽의약품청 EMA 공개 평가 보고서 EPAR, 첨단치료제 개요)",
+ "footer": "출처: 유럽의약품청(EMA) 첨단치료제 개요, Holoclar·Spherox·Zemcelpro EPAR\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "유럽 EMA 승인 세포치료제",
+  "description": "유럽 EMA 승인 세포치료제: 홀로클라, 스페록스, 젬셀프로 허가 날짜와 승인 범위, 연구 결과.",
+  "keywords": [
+   "유럽 EMA 승인 세포치료제",
+   "홀로클라",
+   "젬셀프로",
+   "스페록스",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/",
+  "alt_cover": "유럽 EMA 승인 세포치료제 대표 그림: 각막 줄기세포 홀로클라, 무릎 연골 세포 스페록스, 제대혈 세포 젬셀프로 세 제품 정리",
+  "alt_info": "스페록스 연구 결과 그림: 성인 100명 연구에서 5년 동안 무릎 점수 22점에서 28점 상승, 결손이 큰 성인 73명 연구에서 첫해 16점 상승"
+ },
+ "file_ko": "스페록스",
+ "info_title": {
+  "lines": [
+   "[[스페록스]]",
+   "{{연구 결과}}"
+  ]
+ },
+ "summary": "2017년 7월 10일 허가",
+ "sections": [
+  {
+   "type": "stats",
+   "title": "무릎 점수(KOOS) 상승",
+   "color": "peach",
+   "character": "patient",
+   "items": [
+    {
+     "value": "22점 이상",
+     "label": "성인 100명",
+     "note": "5년 동안, 많게는 28점"
+    },
+    {
+     "value": "16점",
+     "label": "성인 73명",
+     "note": "첫해, 결손 4에서 10cm²"
+    }
+   ]
+  },
+  {
+   "type": "note",
+   "title": "승인 범위",
+   "color": "sky",
+   "character": "doctor",
+   "text": "성인 무릎 연골 결손 (ICRS 3·4등급, 10cm² 이하)"
+  }
+ ]
+}

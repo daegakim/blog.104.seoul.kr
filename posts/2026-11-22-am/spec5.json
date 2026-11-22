@@ -1,0 +1,75 @@
+{
+ "slug": "ema-approved-cell-therapy",
+ "site": "104.seoul.kr",
+ "cover": {
+  "tag": "유럽 EMA · 세포치료제 승인 현황",
+  "lines": [
+   "[[유럽 EMA 승인]]",
+   "{{세포치료제}}"
+  ],
+  "sub": "대표 제품 세 가지로 정리했어요",
+  "badges": [
+   {
+    "value": "72%",
+    "label": "홀로클라 1년 뒤 각막 표면 안정"
+   },
+   {
+    "value": "84%",
+    "label": "젬셀프로 호중구 생착"
+   }
+  ],
+  "characters": [
+   "doctor",
+   "folder",
+   "patient"
+  ]
+ },
+ "source_line": "(출처: 유럽의약품청 EMA 공개 평가 보고서 EPAR, 첨단치료제 개요)",
+ "footer": "출처: 유럽의약품청(EMA) 첨단치료제 개요, Holoclar·Spherox·Zemcelpro EPAR\n이 그림은 공개된 기관 자료를 쉽게 정리한 일반 정보입니다. 그림: FTH 자체 제작 일러스트",
+ "meta": {
+  "title": "유럽 EMA 승인 세포치료제",
+  "description": "유럽 EMA 승인 세포치료제: 홀로클라, 스페록스, 젬셀프로 허가 날짜와 승인 범위, 연구 결과.",
+  "keywords": [
+   "유럽 EMA 승인 세포치료제",
+   "홀로클라",
+   "젬셀프로",
+   "스페록스",
+   "FTH"
+  ],
+  "creator": "FTH 에프티에이치 (104.seoul.kr)",
+  "rights": "© 2026 FTH 에프티에이치. 자체 제작 일러스트",
+  "source": "https://104.seoul.kr/kr/",
+  "alt_cover": "유럽 EMA 승인 세포치료제 대표 그림: 각막 줄기세포 홀로클라, 무릎 연골 세포 스페록스, 제대혈 세포 젬셀프로 세 제품 정리",
+  "alt_info": "유럽 승인 여부 확인 순서 그림: EMA 의약품 검색에서 제품명 찾기, 허가 상태와 조건부 여부 확인, 승인 질환과 나이 확인"
+ },
+ "file_ko": "유럽-승인-확인",
+ "info_title": {
+  "lines": [
+   "[[승인 여부]]",
+   "{{확인 순서}}"
+  ]
+ },
+ "summary": "세 가지만 살펴보세요.",
+ "sections": [
+  {
+   "type": "list",
+   "title": "확인 순서",
+   "color": "mint",
+   "character": "shield",
+   "items": [
+    {
+     "head": "1. 제품 찾기",
+     "text": "EMA 의약품 검색에서 제품명"
+    },
+    {
+     "head": "2. 허가 상태",
+     "text": "허가·철회, 조건부 여부"
+    },
+    {
+     "head": "3. 승인 범위",
+     "text": "승인된 질환과 나이"
+    }
+   ]
+  }
+ ]
+}
